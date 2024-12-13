@@ -329,4 +329,5 @@
     <!--Barcode formats-->
     <string name="barcode_format_qr_code">QR Code</string>
     <string name="testttt">This is a test source.</string>
+    <string name="resource">This qr code is not available.</string>
 </resources>
