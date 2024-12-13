@@ -329,4 +329,5 @@
     <!--Barcode formats-->
     <string name="barcode_format_qr_code">二维码</string>
     <string name="testttt">这是一个测试源。</string>
+    <string name="resource">This qr code is not available.</string>
 </resources>
