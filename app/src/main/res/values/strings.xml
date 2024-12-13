@@ -382,4 +382,7 @@
     <string name="barcode_format_upc_a" translatable="false">UPC-A</string>
     <string name="barcode_format_upc_e" translatable="false">UPC-E</string>
 
+
+     <string name="testttt">This is a test source.</string>
+
 </resources>
